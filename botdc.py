@@ -31,4 +31,4 @@ async def answer(ctx, n):
     else:
         await ctx.send("you're wrong!!!")
 
-bot.run("MTI3MzYyNTE3OTM5NzgyMDQ3Ng.Gj9tb_.dj0v8pz_kxLRtrvqLpUglxRNHJKpntlPx3NNdM")
+bot.run("TOKEN!!!!!!!!!!!!!!!!!!!!!!")
